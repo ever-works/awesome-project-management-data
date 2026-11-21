@@ -1,0 +1,13 @@
+name: "Airtable"
+description: "Airtable is a cloud-based platform that combines spreadsheet and database functionality for work management. Teams use it to build custom apps, track projects, and automate workflows. It offers a free tier and paid plans for teams and enterprises."
+source_url: "https://airtable.com/"
+category: "Work OS & Visual PM"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/airtable.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://airtable.com/>\n"
+updated_at: "2026-11-21 01:10"

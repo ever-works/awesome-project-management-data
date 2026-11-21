@@ -1,0 +1,11 @@
+name: "Basecamp"
+description: "Basecamp is a project management and team communication platform combining to-do lists, message boards, schedules, and file storage. It is designed for small to mid-sized businesses seeking a flat-fee alternative to per-user pricing. Basecamp offers a free personal plan and a paid business version."
+source_url: "https://basecamp.com/"
+category: "Project Management Suites"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/basecamp.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://basecamp.com/>\n"
+updated_at: "2026-11-21 01:10"

@@ -1,0 +1,12 @@
+name: "Smartsheet"
+description: "Smartsheet is a work execution platform that combines spreadsheet-like interfaces with project and workflow management. It supports Gantt charts, card views, automation, and enterprise-grade security. Plans range from individual free trials to paid enterprise subscriptions."
+source_url: "https://www.smartsheet.com/"
+category: "Work OS & Visual PM"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.smartsheet.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.smartsheet.com/>\n"
+updated_at: "2026-11-21 01:10"

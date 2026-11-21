@@ -1,0 +1,12 @@
+name: "Teamwork.com"
+description: "Teamwork.com is a client work platform for managing projects, tasks, and collaboration. It includes time tracking, billing, milestones, and resource planning. It offers a free plan for small teams and paid tiers for growing businesses."
+source_url: "https://teamwork.com/"
+category: "Project Management Suites"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/teamwork.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://teamwork.com/>\n"
+updated_at: "2026-11-21 01:10"

@@ -1,0 +1,12 @@
+name: "Zoho Projects"
+description: "Zoho Projects is an online project management tool for planning, tracking, and collaborating on work. It features task automation, timesheets, Gantt charts, and integration with the Zoho ecosystem. A free plan is available for up to three users, with paid plans beyond that."
+source_url: "https://www.zoho.com/projects"
+category: "Project Management Suites"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/projects>\n"
+updated_at: "2026-11-21 01:10"

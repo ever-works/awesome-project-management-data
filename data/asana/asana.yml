@@ -1,0 +1,13 @@
+name: "Asana"
+description: "Asana is a work management platform for teams to organize tasks, projects, and workflows. It offers list, board, timeline, and calendar views with automation and reporting. Pricing includes a free tier and paid plans for advanced features."
+source_url: "https://asana.com/"
+category: "Project Management Suites"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/asana.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://asana.com/>\n"
+updated_at: "2026-11-21 01:10"

@@ -1,0 +1,11 @@
+name: "Ever Teams"
+description: "Ever Teams is a digital workplace platform combining project management, document management, and business process automation. It targets enterprises needing centralized collaboration and governance. Pricing is commercial and typically quote-based."
+source_url: "https://ever.team/"
+category: "Project Management Suites"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/ever.team.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://ever.team/>\n- Repository: <https://github.com/ever-co/ever-teams>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 01:10"

@@ -1,0 +1,13 @@
+name: "monday.com"
+description: "monday.com is a cloud-based Work OS that lets teams build custom workflows and manage projects. It features customizable boards, automations, dashboards, and numerous integrations. Pricing is tiered with a limited free plan for individuals."
+source_url: "https://monday.com/"
+category: "Work OS & Visual PM"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/monday.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://monday.com/>\n"
+updated_at: "2026-11-21 01:10"

@@ -1,0 +1,13 @@
+name: "Plane"
+description: "Plane is an open-source project management tool for software teams, offering issue tracking, roadmaps, and cycle views. It can be self-hosted or used as a managed cloud service. Plane is released under an open-source license and provides a free self-hosted option."
+source_url: "https://plane.so/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "agile"
+icon_url: "https://icons.duckduckgo.com/ip3/plane.so.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://plane.so/>\n- Repository: <https://github.com/plane-io/plane>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:10"

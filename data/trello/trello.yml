@@ -1,0 +1,13 @@
+name: "Trello"
+description: "Trello is a visual collaboration tool based on Kanban boards, lists, and cards. It is used for task management and lightweight project tracking across teams. Trello has a free plan and paid business or enterprise tiers."
+source_url: "https://trello.com/"
+category: "Work OS & Visual PM"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/trello.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://trello.com/>\n"
+updated_at: "2026-11-21 01:10"

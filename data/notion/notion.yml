@@ -1,0 +1,13 @@
+name: "Notion"
+description: "Notion is a connected workspace for notes, documents, databases, and project tracking. Teams use it to combine wikis, task boards, and documentation in a single interface. It offers free personal use and paid plans for teams and enterprises."
+source_url: "https://notion.so/"
+category: "Work OS & Visual PM"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/notion.so.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://notion.so/>\n"
+updated_at: "2026-11-21 01:10"

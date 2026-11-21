@@ -1,0 +1,18 @@
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: enterprise
+  name: "Enterprise"
+- id: agile
+  name: "Agile"
+- id: issue-tracking
+  name: "Issue Tracking"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"

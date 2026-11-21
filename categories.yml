@@ -1,0 +1,12 @@
+- id: project-management-suites
+  name: "Project Management Suites"
+- id: agile-and-issue-tracking
+  name: "Agile & Issue Tracking"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: work-os-and-visual-pm
+  name: "Work OS & Visual PM"
+- id: gantt-and-resource-planning
+  name: "Gantt & Resource Planning"
+- id: ai-project-management
+  name: "AI Project Management"

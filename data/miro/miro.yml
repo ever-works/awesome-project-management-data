@@ -1,0 +1,13 @@
+name: "Miro"
+description: "Miro is an online collaborative whiteboard platform for visual project management and brainstorming. It provides templates for Kanban, mind maps, and workflow diagramming. Miro has a free plan with limited boards and paid plans for unlimited use."
+source_url: "https://miro.com/"
+category: "Work OS & Visual PM"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/miro.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://miro.com/>\n"
+updated_at: "2026-11-21 01:10"

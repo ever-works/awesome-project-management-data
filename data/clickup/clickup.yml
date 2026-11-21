@@ -1,0 +1,13 @@
+name: "ClickUp"
+description: "ClickUp is an all-in-one productivity platform combining tasks, docs, goals, and chat. It supports multiple views including list, board, Gantt, and calendar. ClickUp provides a free forever plan and paid tiers for advanced functionality."
+source_url: "https://clickup.com/"
+category: "Project Management Suites"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/clickup.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://clickup.com/>\n"
+updated_at: "2026-11-21 01:10"
