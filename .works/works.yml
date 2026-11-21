@@ -1,18 +1,21 @@
-company_name: "Awesome Project Management"
+company_name: Awesome Project Management
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Project Management"
-initial_prompt: "A curated directory of project-management, issue-tracking and work-management software, SaaS and open source. Include products such as Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike, Plane, OpenProject, Ever Teams, plus other notable commercial and open-source options. Categories: Project Management Suites, Agile & Issue Tracking, Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI Project Management. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-project-management-website"
-company_website: "https://project-management.ever.works"
+name: Awesome Project Management
+initial_prompt: "A curated directory of project-management, issue-tracking and
+  work-management software, SaaS and open source. Include products such as
+  Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike,
+  Plane, OpenProject, Ever Teams, plus other notable commercial and open-source
+  options. Categories: Project Management Suites, Agile & Issue Tracking,
+  Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI
+  Project Management. For every item capture the official website, a short
+  factual description, pricing model (free, freemium, paid, open source),
+  deployment (cloud or self-hosted), key features and integrations."
+website_repo: ever-works/awesome-project-management-website
+company_website: https://project-management.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
