@@ -1,0 +1,51 @@
+name: Phorge
+description: A community-driven platform for collaborating, managing,
+  organizing, and reviewing software development projects. A fork of Phabricator
+  providing code review, task management, and repository hosting. Licensed under
+  Apache-2.0.
+source_url: https://phorge.it/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - phabricator
+  - code-review
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Phorge is a community-driven platform for collaborating, managing, organizing,
+  and reviewing software development projects. It is a fork of Phabricator.
+
+
+  ## Features
+
+
+  - Code review
+
+  - Task management
+
+  - Repository hosting
+
+  - Project organization
+
+  - Diffusion (repository management)
+
+  - Maniphest (task tracking)
+
+  - Differential (code review)
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, PHP
+brand: Phorge
+updated_at: 2026-11-22 00:20

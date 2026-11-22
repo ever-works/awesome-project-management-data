@@ -1,0 +1,48 @@
+name: SCM Manager
+description: An easy way to share and manage Git, Mercurial, and Subversion
+  repositories over HTTP. Provides a web-based interface for repository
+  administration with user and permission management. Licensed under
+  BSD-3-Clause.
+source_url: https://scm-manager.org/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+  - mercurial
+  - subversion
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SCM Manager is the easiest way to share and manage Git, Mercurial, and
+  Subversion repositories over HTTP.
+
+
+  ## Features
+
+
+  - Git, Mercurial, and Subversion support
+
+  - HTTP-based repository sharing
+
+  - Web-based administration
+
+  - User and permission management
+
+  - Repository browser
+
+
+  ## License
+
+
+  BSD-3-Clause
+
+
+  ## Deployment
+
+
+  Self-hosted, Java, Docker, K8S
+brand: SCM Manager
+updated_at: 2026-11-22 00:20

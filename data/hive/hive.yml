@@ -1,0 +1,68 @@
+name: Hive
+description: Hive is a scalable project management platform known for its highly
+  customizable views, minimalist interface, and conversational AI assistant
+  called Buzz. It supports over 1,000 integrations and add-ons for extending
+  functionality such as timesheets, proofing, and approvals. The free plan
+  includes unlimited tasks, 10 projects, and up to 10 members; paid plans start
+  at $5/user/month (billed annually).
+source_url: https://hive.com/
+category: Work OS & Visual PM
+tags:
+  - Free Plan
+  - Freemium
+  - Paid
+  - API
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hive is a simple yet scalable project manager with a minimalist,
+  easy-to-navigate interface and extensive view customization options.
+
+
+  ## Features
+
+
+  - Multiple view options: three Kanban variants, list, table, Gantt, calendar,
+  and timeline
+
+  - Toggle between views, pin favorites, and set views to private
+
+  - Conversational AI assistant (Buzz) for summarizing projects, generating task
+  descriptions and subtasks, and brainstorming
+
+  - Add-ons to extend the feature set (timesheets, proofing and approvals
+  modules)
+
+  - Support for over 1,000 integrations including Zapier
+
+  - Recurring tasks and dependencies (paid plans)
+
+
+  ## Pricing
+
+
+  - **Free plan**: Unlimited tasks, 10 projects, up to 10 members
+
+  - **Starter plan**: From $5/user/month (billed annually), adds unlimited usage
+  of advanced views (Gantt, calendar, table) plus recurring tasks and
+  dependencies
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS (Web, macOS, Windows, iOS, Android)
+
+
+  ## Integrations
+
+
+  Over 1,000 integrations including Zapier for workflow automation.
+brand: Hive
+brand_logo_url: https://hive.com/assets/images/logo.svg
+images:
+  - https://hive.com/assets/images/screenshot.png
+updated_at: 2026-11-22 00:20

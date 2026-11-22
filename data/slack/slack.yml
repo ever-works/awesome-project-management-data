@@ -1,0 +1,63 @@
+name: Slack
+description: Slack is a team messaging application that enables real-time
+  communication through organized channels. It provides channel organization,
+  integration capabilities, and search functionality to help teams collaborate.
+  Slack follows a freemium pricing model with paid plans for larger teams and
+  enterprises.
+source_url: https://slack.com/
+category: Work OS & Visual PM
+tags:
+  - Freemium
+  - Real-Time Communication
+  - API
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Slack is a messaging app for teams that supports real-time communication
+  through channels, direct messages, and group conversations. It helps teams
+  organize discussions, share files, and search through message history.
+
+
+  ## Key Features
+
+
+  - Real-Time Communication
+
+  - Channel Organization
+
+  - Integration Capabilities
+
+  - Search Functionality
+
+  - File sharing
+
+  - Direct messages and group conversations
+
+  - Voice and video calls
+
+
+  ## Pricing Model
+
+
+  Freemium — a free plan is available, with paid plans for larger teams and
+  enterprise-grade features.
+
+
+  ## Deployment
+
+
+  Cloud (SaaS) with desktop and mobile apps.
+
+
+  ## Integrations
+
+
+  Slack provides a robust API and app directory for integrating with hundreds of
+  third-party tools and services.
+brand: Slack Technologies
+brand_logo_url: https://slack.com/logo.png
+images: []
+updated_at: 2026-11-22 00:20

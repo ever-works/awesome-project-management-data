@@ -1,0 +1,41 @@
+name: Scoro
+description: Scoro is a work management software that combines project
+  management, billing, CRM, and reporting features. It provides an API for
+  integrations and supports monetary features for project budgeting and
+  invoicing.
+source_url: https://www.scoro.com/
+category: Project Management Suites
+tags:
+  - work-management
+  - billing
+  - crm
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Scoro is an end-to-end work management software solution combining project
+  management, billing, CRM, and reporting capabilities.
+
+
+  ## Features
+
+
+  - Project management
+
+  - Billing and invoicing
+
+  - CRM
+
+  - Reporting and analytics
+
+  - API for integrations
+
+
+  ## Pricing
+
+
+  Pricing model not specified in the source.
+brand: Scoro
+updated_at: 2026-11-22 00:20

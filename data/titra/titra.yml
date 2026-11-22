@@ -1,0 +1,33 @@
+name: Titra
+description: A time-tracking solution for freelancers and small teams. Provides
+  project time tracking, reporting, and invoicing capabilities. Licensed under
+  GPL-3.0.
+source_url: https://titra.app/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - time-tracking
+featured: false
+markdown: |-
+  ## Overview
+
+  Titra is a time-tracking solution for freelancers and small teams.
+
+  ## Features
+
+  - Time tracking
+  - Project tracking
+  - Reporting
+  - Invoicing
+  - Team timesheets
+
+  ## License
+
+  GPL-3.0
+
+  ## Deployment
+
+  Self-hosted, Javascript, Docker
+brand: Titra
+updated_at: 2026-11-22 00:20

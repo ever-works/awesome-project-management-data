@@ -1,0 +1,47 @@
+name: Huly
+description: An all-in-one project management platform positioned as an
+  alternative to Linear, Jira, and Slack. Combines task management,
+  documentation, and team communication in a single interface. Licensed under
+  EPL-2.0.
+source_url: https://huly.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - project-management
+  - ai
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Huly is an all-in-one project management platform positioned as an alternative
+  to Linear, Jira, and Slack.
+
+
+  ## Features
+
+
+  - Task and project management
+
+  - Documentation
+
+  - Team communication
+
+  - Issue tracking
+
+  - Roadmaps
+
+
+  ## License
+
+
+  EPL-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, Docker, K8S, Nodejs
+brand: Huly
+updated_at: 2026-11-22 00:20

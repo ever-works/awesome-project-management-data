@@ -1,0 +1,44 @@
+name: web2Project
+description: web2Project is an open-source project management application for
+  tracking projects, tasks, and resources. It is a web-based PHP application
+  designed for team collaboration and project oversight.
+source_url: https://www.web2project.net/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - php
+  - project-tracking
+featured: false
+markdown: >-
+  ## Overview
+
+
+  web2Project is an open-source web-based project management application written
+  in PHP.
+
+
+  ## Features
+
+
+  - Project tracking
+
+  - Task management
+
+  - Resource management
+
+  - Team collaboration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/web2project/web2project
+brand: web2Project
+updated_at: 2026-11-22 00:20

@@ -1,0 +1,77 @@
+name: Redmine
+description: Redmine is a flexible, open-source project management web
+  application. It supports multiple projects, offers cross-platform access,
+  plugin extensibility, and multi-language support. Redmine is released under
+  the GNU General Public License (GPL) and can be self-hosted.
+source_url: https://www.redmine.org/
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - Plugin Support
+  - Multi-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Redmine is a flexible, open-source project management web application designed
+  for managing multiple projects with role-based access control, issue tracking,
+  and document management.
+
+
+  ## Key Features
+
+
+  - Open Source
+
+  - Cross-Platform
+
+  - Plugin Support
+
+  - Multi-language Support
+
+  - Multiple project support
+
+  - Issue tracking
+
+  - Role-based access control
+
+  - Gantt charts and calendars
+
+  - News, document, and file management
+
+
+  ## Pricing Model
+
+
+  Open source — free to use under the GNU General Public License (GPL).
+
+
+  ## License
+
+
+  GNU General Public License (GPL).
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/redmine/redmine
+
+
+  ## Integrations
+
+
+  Redmine supports plugins for extensibility and integrates with version control
+  systems such as Subversion and Git.
+brand: Redmine
+brand_logo_url: https://www.redmine.org/assets/logo.png
+images: []
+updated_at: 2026-11-22 00:20

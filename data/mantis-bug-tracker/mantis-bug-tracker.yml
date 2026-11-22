@@ -1,0 +1,44 @@
+name: Mantis Bug Tracker
+description: Mantis Bug Tracker is an open-source bug tracking and issue
+  tracking system. It is a web-based application written in PHP that helps teams
+  track software defects and manage issues.
+source_url: https://www.mantisbt.org/
+category: Agile & Issue Tracking
+tags:
+  - open-source
+  - bug-tracking
+  - issue-tracking
+  - web-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mantis Bug Tracker is a free, open-source web-based bug tracking system
+  written in PHP.
+
+
+  ## Features
+
+
+  - Bug and issue tracking
+
+  - Web-based interface
+
+  - Project and issue management
+
+  - Email notifications
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/mantisbt/mantisbt
+brand: MantisBT
+updated_at: 2026-11-22 00:20

@@ -1,0 +1,49 @@
+name: RhodeCode
+description: A platform to unify and simplify repository management for Git,
+  Subversion, and Mercurial. Provides code review, pull requests, and access
+  control with a focus on enterprise-grade security. Licensed under AGPL-3.0.
+source_url: https://rhodecode.com/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+  - mercurial
+  - subversion
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RhodeCode is a platform to unify and simplify repository management for Git,
+  Subversion, and Mercurial.
+
+
+  ## Features
+
+
+  - Git, Subversion, and Mercurial support
+
+  - Code review
+
+  - Pull requests
+
+  - Access control
+
+  - Repository management
+
+  - Enterprise-grade security
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Deployment
+
+
+  Self-hosted, Python
+brand: RhodeCode
+updated_at: 2026-11-22 00:20

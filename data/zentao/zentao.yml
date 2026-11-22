@@ -1,0 +1,50 @@
+name: ZenTao
+description: An Agile (Scrum) project management system/tool. Provides product,
+  project, test, and document management with Scrum methodology support for
+  software development teams. Licensed under AGPL-3.0.
+source_url: https://www.zentao.net/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - agile
+  - scrum
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ZenTao is an Agile (Scrum) project management system/tool designed for
+  software development teams.
+
+
+  ## Features
+
+
+  - Scrum project management
+
+  - Product management
+
+  - Project management
+
+  - Test management
+
+  - Document management
+
+  - Bug tracking
+
+  - Release management
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Deployment
+
+
+  Self-hosted, PHP
+brand: ZenTao
+updated_at: 2026-11-22 00:20

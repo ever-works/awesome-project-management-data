@@ -1,0 +1,46 @@
+name: 4ga Boards
+description: A straightforward realtime kanban board management tool for
+  intuitive task tracking. Features an elegant dark mode, collapsible todo
+  lists, and multitasking tools for team productivity. Licensed under MIT.
+source_url: https://4ga.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - kanban
+  - task-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  4ga Boards is a straightforward realtime kanban board management tool for
+  intuitive task tracking.
+
+
+  ## Features
+
+
+  - Realtime kanban boards
+
+  - Dark mode
+
+  - Collapsible todo lists
+
+  - Multitasking tools
+
+  - Task tracking
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, Nodejs, Docker, K8S
+brand: 4ga
+updated_at: 2026-11-22 00:20

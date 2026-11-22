@@ -1,0 +1,50 @@
+name: Gitbucket
+description: A Git platform powered by Scala with easy installation, high
+  extensibility, and GitHub API compatibility. Provides repository hosting,
+  issue tracking, pull requests, and wiki as a self-hosted alternative to
+  GitHub. Licensed under Apache-2.0.
+source_url: https://gitbucket.github.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+  - github-alternative
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gitbucket is a Git platform powered with easy installation, high
+  extensibility, and GitHub API compatibility. It serves as a self-hosted
+  alternative to GitHub.
+
+
+  ## Features
+
+
+  - Git repository hosting
+
+  - Issue tracking
+
+  - Pull requests
+
+  - Wiki
+
+  - GitHub API compatibility
+
+  - Plugin system for extensibility
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, Scala, Java
+brand: Gitbucket
+updated_at: 2026-11-22 00:20

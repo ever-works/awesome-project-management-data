@@ -1,0 +1,56 @@
+name: Todoist
+description: Todoist is a to-do list and task management application that helps
+  individuals and teams get organized at work and in life. It offers
+  cross-platform availability, collaboration features, and advanced task
+  management. Todoist follows a freemium pricing model with a free plan and paid
+  upgrades.
+source_url: https://todoist.com/
+category: Project Management Suites
+tags:
+  - Free Plan
+  - Freemium
+  - API
+  - Task Tracking
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Todoist is a to-do list application that helps users get organized at work and
+  in life. It supports individuals and teams managing tasks across multiple
+  platforms.
+
+
+  ## Key Features
+
+
+  - Cross-Platform Availability
+
+  - Collaboration Features
+
+  - User-Friendly Interface
+
+  - Advanced Task Management
+
+
+  ## Pricing Model
+
+
+  Freemium — a free plan is available, with paid upgrades for additional
+  features.
+
+
+  ## Deployment
+
+
+  Cloud (SaaS) with native apps across platforms.
+
+
+  ## Integrations
+
+
+  Todoist provides an API and integrates with a variety of third-party
+  productivity and calendar tools.
+brand: Doist
+images: []
+updated_at: 2026-11-22 00:20

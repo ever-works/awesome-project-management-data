@@ -1,0 +1,30 @@
+name: Kaneo
+description: A project management platform focused on simplicity and efficiency.
+  Provides task tracking and project organization for teams. Licensed under MIT.
+source_url: https://kaneo.app/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - project-management
+featured: false
+markdown: |-
+  ## Overview
+
+  Kaneo is a project management platform focused on simplicity and efficiency.
+
+  ## Features
+
+  - Task tracking
+  - Project organization
+  - Team collaboration
+
+  ## License
+
+  MIT
+
+  ## Deployment
+
+  Self-hosted, Docker, K8S
+brand: Kaneo
+updated_at: 2026-11-22 00:20

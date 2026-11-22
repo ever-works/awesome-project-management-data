@@ -1,0 +1,42 @@
+name: Gogs
+description: A painless self-hosted Git service written in Go. Provides Git
+  repository hosting with a simple, easy-to-install setup. Licensed under MIT.
+source_url: https://gogs.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gogs is a painless Git service written in Go, designed for easy self-hosting
+  of Git repositories.
+
+
+  ## Features
+
+
+  - Git repository hosting
+
+  - Simple installation
+
+  - Web interface
+
+  - User and repository management
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, Go
+brand: Gogs
+updated_at: 2026-11-22 00:20

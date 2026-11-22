@@ -1,0 +1,52 @@
+name: Fossil SCM
+description: Fossil SCM is a lightweight, self-hosting web-based distributed
+  software configuration management system with bug tracking, wiki, and project
+  management capabilities. It is distributed as a single executable for multiple
+  platforms.
+source_url: https://www.fossil-scm.org/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - scm
+  - bug-tracking
+  - wiki
+  - distributed
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Fossil SCM is a simple, high-reliability, distributed free and open-source
+  software configuration management system with integrated bug tracking, wiki,
+  and project management features.
+
+
+  ## Features
+
+
+  - Distributed version control
+
+  - Bug and issue tracking
+
+  - Integrated wiki
+
+  - Project management
+
+  - Self-hosting web interface
+
+  - Single executable distribution
+
+
+  ## Pricing
+
+
+  Free and open-source under the BSD 2-Clause License.
+
+
+  ## Repository
+
+
+  https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
+brand: Fossil SCM
+updated_at: 2026-11-22 00:20

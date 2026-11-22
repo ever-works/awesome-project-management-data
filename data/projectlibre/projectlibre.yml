@@ -1,0 +1,46 @@
+name: ProjectLibre
+description: ProjectLibre is an open-source project management software
+  positioned as a replacement for Microsoft Project. It supports project
+  scheduling, task management, document management, and project budget/expense
+  tracking. Licensed under the Common Public Attribution License.
+source_url: https://www.projectlibre.com/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - ms-project-alternative
+  - project-scheduling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ProjectLibre is an open-source project management software designed as a
+  desktop replacement for Microsoft Project.
+
+
+  ## Features
+
+
+  - Project scheduling and task management
+
+  - Document management
+
+  - Project budget and expense tracking
+
+  - Cloud progress updates
+
+
+  ## Pricing
+
+
+  Free and open-source under the Common Public Attribution License.
+
+
+  ## Repository
+
+
+  https://github.com/projectlibre/projectlibre
+brand: ProjectLibre
+brand_logo_url: https://www.projectlibre.com/images/projectlibre-logo.png
+updated_at: 2026-11-22 00:20

@@ -1,0 +1,69 @@
+name: Any.do
+description: Any.do is a task and project management platform that combines
+  individual productivity tools with team collaboration features through Any.do
+  Workspace. It offers chat, file sharing, Kanban, calendar, table, and Gantt
+  views, plus simple if/then automation. The free plan covers personal task
+  management; paid Teams plans start at $4.99/user/month (billed annually).
+source_url: https://www.any.do/
+category: Project Management Suites
+tags:
+  - Free Plan
+  - Freemium
+  - Paid
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Any.do is a task management platform that expanded into team project
+  management with Any.do Workspace, balancing personal productivity with
+  collaborative project features.
+
+
+  ## Features
+
+
+  - Any.do Workspace for team project management
+
+  - Chat and file sharing for collaboration
+
+  - View options: Kanban, calendar, table, and Gantt
+
+  - Simple if/then automation
+
+  - My Day daily agenda builder for individual task focus
+
+  - Fewer than 20 native integrations
+
+  - Zapier integration for connecting with thousands of other apps
+
+  - Unlimited project boards and team members (Teams plan)
+
+
+  ## Pricing
+
+
+  - **Free plan**: Personal task management and individual features
+
+  - **Teams plan**: From $4.99/user/month (billed annually), includes
+  collaborative workspace, unlimited project boards and team members, plus
+  advanced project management features
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS (Web, iOS, Android)
+
+
+  ## Integrations
+
+
+  Fewer than 20 native integrations; Zapier integration connects with thousands
+  of additional tools.
+brand: Any.do
+brand_logo_url: https://www.any.do/assets/images/logo.svg
+images:
+  - https://www.any.do/assets/images/screenshot.png
+updated_at: 2026-11-22 00:20

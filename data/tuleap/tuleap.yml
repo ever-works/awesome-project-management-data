@@ -1,0 +1,50 @@
+name: Tuleap
+description: A libre suite to plan, track, code, and collaborate on software
+  projects. Provides agile project management, issue tracking, Git/SVN hosting,
+  and continuous integration. Licensed under GPL-2.0.
+source_url: https://tuleap.org/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - project-management
+  - agile
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tuleap is a libre suite to plan, track, code, and collaborate on software
+  projects.
+
+
+  ## Features
+
+
+  - Agile project management
+
+  - Issue tracking
+
+  - Git and SVN hosting
+
+  - Continuous integration
+
+  - Test management
+
+  - Document management
+
+  - Planning and tracking
+
+
+  ## License
+
+
+  GPL-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, PHP
+brand: Tuleap
+updated_at: 2026-11-22 00:20

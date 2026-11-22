@@ -1,0 +1,51 @@
+name: Gitea
+description: A painless all-in-one software development service including Git
+  hosting, code review, team collaboration, package registry, and CI/CD. A
+  lightweight fork of Gogs written in Go. Licensed under MIT.
+source_url: https://gitea.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+  - devops
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gitea is a painless all-in-one software development service, including Git
+  hosting, code review, team collaboration, package registry and CI/CD. It is a
+  lightweight, community-driven fork of Gogs.
+
+
+  ## Features
+
+
+  - Git hosting and repository management
+
+  - Code review
+
+  - Team collaboration
+
+  - Package registry
+
+  - CI/CD
+
+  - Issue tracking
+
+  - Pull requests
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, Go, Docker, K8S
+brand: Gitea
+updated_at: 2026-11-22 00:20

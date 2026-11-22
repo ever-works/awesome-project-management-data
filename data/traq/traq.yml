@@ -1,0 +1,34 @@
+name: Traq
+description: A project management and issue tracking system written in PHP.
+  Provides issue tracking, project organization, and user management for
+  software development teams. Licensed under GPL-3.0.
+source_url: https://traq.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - issue-tracking
+  - project-management
+featured: false
+markdown: |-
+  ## Overview
+
+  Traq is a project management and issue tracking system written in PHP.
+
+  ## Features
+
+  - Issue tracking
+  - Project management
+  - User management
+  - Milestone tracking
+  - Email notifications
+
+  ## License
+
+  GPL-3.0
+
+  ## Deployment
+
+  Self-hosted, PHP, Nodejs
+brand: Traq
+updated_at: 2026-11-22 00:20

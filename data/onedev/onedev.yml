@@ -1,0 +1,49 @@
+name: OneDev
+description: An all-in-one DevOps platform with Git management, issue tracking,
+  and CI/CD. Designed to be simple yet powerful for software development teams.
+  Licensed under MIT.
+source_url: https://onedev.io/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - devops
+  - git
+  - ci-cd
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OneDev is an all-in-one DevOps platform that provides Git management, issue
+  tracking, and CI/CD capabilities for software development teams.
+
+
+  ## Features
+
+
+  - Git management
+
+  - Issue tracking
+
+  - CI/CD pipelines
+
+  - Code review
+
+  - Pull requests
+
+  - Docker registry
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, Java, Docker, K8S
+brand: OneDev
+updated_at: 2026-11-22 00:20

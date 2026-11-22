@@ -1,0 +1,51 @@
+name: GitLab
+description: A DevOps platform providing Git repository management, code
+  reviews, issue tracking, activity feeds, and wikis. Offers both self-hosted
+  Community Edition (MIT licensed) and cloud SaaS options.
+source_url: https://about.gitlab.com/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+  - devops
+featured: false
+markdown: >-
+  ## Overview
+
+
+  GitLab is a DevOps platform that provides Git repository management, code
+  reviews, issue tracking, activity feeds, and wikis. It offers both a
+  self-hosted Community Edition and cloud SaaS options.
+
+
+  ## Features
+
+
+  - Git repository management
+
+  - Code reviews
+
+  - Issue tracking
+
+  - Activity feeds
+
+  - Wikis
+
+  - CI/CD pipelines
+
+  - Container registry
+
+
+  ## License
+
+
+  MIT (Community Edition)
+
+
+  ## Deployment
+
+
+  Self-hosted, cloud (SaaS), Ruby, Docker, K8S
+brand: GitLab
+updated_at: 2026-11-22 00:20

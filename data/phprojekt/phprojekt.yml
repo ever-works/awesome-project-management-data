@@ -1,0 +1,35 @@
+name: Phprojekt
+description: Phprojekt is a project management software for team collaboration
+  and project tracking. It is a web-based application designed for managing
+  projects, tasks, and team communication.
+source_url: https://www.phprojekt.com/
+category: Project Management Suites
+tags:
+  - web-based
+  - project-tracking
+  - team-collaboration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Phprojekt is a web-based project management software application for team
+  collaboration and project tracking.
+
+
+  ## Features
+
+
+  - Project tracking
+
+  - Team collaboration
+
+  - Task management
+
+
+  ## Pricing
+
+
+  Pricing model not specified in the source.
+brand: Phprojekt
+updated_at: 2026-11-22 00:20

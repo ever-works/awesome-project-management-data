@@ -1,0 +1,45 @@
+name: minimal-git-server
+description: A lightweight Git server with a basic CLI to manage repositories.
+  Supports multiple accounts and runs in a container. Designed for simplicity
+  and minimal resource usage. Licensed under MIT.
+source_url: https://github.com/jphellemons/minimal-git-server
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - git
+featured: false
+markdown: >-
+  ## Overview
+
+
+  minimal-git-server is a lightweight Git server with a basic CLI to manage
+  repositories. It supports multiple accounts and runs in a container.
+
+
+  ## Features
+
+
+  - Git repository hosting
+
+  - Basic CLI for repository management
+
+  - Multiple account support
+
+  - Containerized deployment
+
+  - Minimal resource usage
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, Docker
+brand: minimal-git-server
+updated_at: 2026-11-22 00:20
