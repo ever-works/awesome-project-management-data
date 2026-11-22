@@ -5,15 +5,30 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome Project Management
-initial_prompt: "A curated directory of project-management, issue-tracking and
-  work-management software, SaaS and open source. Include products such as
-  Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike,
-  Plane, OpenProject, Ever Teams, plus other notable commercial and open-source
-  options. Categories: Project Management Suites, Agile & Issue Tracking,
-  Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI
-  Project Management. For every item capture the official website, a short
-  factual description, pricing model (free, freemium, paid, open source),
-  deployment (cloud or self-hosted), key features and integrations."
+initial_prompt: |-
+  A curated directory of project-management, issue-tracking and work-management software, SaaS and open source. Include products such as Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike, Plane, OpenProject, Ever Teams, plus other notable commercial and open-source options. Categories: Project Management Suites, Agile & Issue Tracking, Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI Project Management. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: Project Management Suites; Agile & Issue Tracking; Open-Source & Self-Hosted; Work OS & Visual PM; Gantt & Resource Planning; AI Project Management.
+  Target keywords: project management software, jira alternatives, open source project management, task tracking.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+  - https://www.softwaresuggest.com/project-management-software
+  - https://www.saashub.com/best-project-management-software
+  - https://zapier.com/blog/best-project-management-software-small-business/
+  - https://openalternative.co/categories/business-software/project-work-management/project-management-suites
+  - https://www.opensourcealternative.to/category/project-management
+  - https://www.futurepedia.io/ai-tools/project-management
+  - https://awesome-selfhosted.net/tags/software-development---project-management.html
+  - https://github.com/ripienaar/free-for-dev#issue-tracking-and-project-management
+  - https://github.com/topics/project-management
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-project-management-website
 company_website: https://project-management.ever.works
 settings:
@@ -31,8 +46,71 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Project Management
+    prompt: |-
+      A curated directory of project-management, issue-tracking and work-management software, SaaS and open source. Include products such as Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike, Plane, OpenProject, Ever Teams, plus other notable commercial and open-source options. Categories: Project Management Suites, Agile & Issue Tracking, Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI Project Management. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: Project Management Suites; Agile & Issue Tracking; Open-Source & Self-Hosted; Work OS & Visual PM; Gantt & Resource Planning; AI Project Management.
+      Target keywords: project management software, jira alternatives, open source project management, task tracking.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+      - https://www.softwaresuggest.com/project-management-software
+      - https://www.saashub.com/best-project-management-software
+      - https://zapier.com/blog/best-project-management-software-small-business/
+      - https://openalternative.co/categories/business-software/project-work-management/project-management-suites
+      - https://www.opensourcealternative.to/category/project-management
+      - https://www.futurepedia.io/ai-tools/project-management
+      - https://awesome-selfhosted.net/tags/software-development---project-management.html
+      - https://github.com/ripienaar/free-for-dev#issue-tracking-and-project-management
+      - https://github.com/topics/project-management
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of project-management, issue-tracking and work-management software, SaaS and open source. Include products such as Asana, Jira, Linear, ClickUp, monday.com, Notion, Trello, Basecamp, Wrike, Plane, OpenProject, Ever Teams, plus other notable commercial and open-source options. Categories: Project Management Suites, Agile & Issue Tracking, Open-Source & Self-Hosted, Work OS & Visual PM, Gantt & Resource Planning, AI Project Management. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: Project Management Suites; Agile & Issue Tracking; Open-Source & Self-Hosted; Work OS & Visual PM; Gantt & Resource Planning; AI Project Management.
+    Target keywords: project management software, jira alternatives, open source project management, task tracking.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+    - https://www.softwaresuggest.com/project-management-software
+    - https://www.saashub.com/best-project-management-software
+    - https://zapier.com/blog/best-project-management-software-small-business/
+    - https://openalternative.co/categories/business-software/project-work-management/project-management-suites
+    - https://www.opensourcealternative.to/category/project-management
+    - https://www.futurepedia.io/ai-tools/project-management
+    - https://awesome-selfhosted.net/tags/software-development---project-management.html
+    - https://github.com/ripienaar/free-for-dev#issue-tracking-and-project-management
+    - https://github.com/topics/project-management
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free

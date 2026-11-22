@@ -1,18 +1,134 @@
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: API
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: agile
-  name: "Agile"
+  name: Agile
 - id: issue-tracking
-  name: "Issue Tracking"
+  name: Issue Tracking
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
+- id: kanban
+  name: Kanban
+- id: task-management
+  name: Task Management
+- id: git
+  name: Git
+- id: gantt
+  name: Gantt
+- id: multi-project
+  name: Multi Project
+- id: resource-planning
+  name: Resource Planning
+- id: project-cost-tracking
+  name: Project Cost Tracking
+- id: forge
+  name: Forge
+- id: scm
+  name: Scm
+- id: bug-tracking
+  name: Bug Tracking
+- id: wiki
+  name: Wiki
+- id: distributed
+  name: Distributed
+- id: code-review
+  name: Code Review
+- id: github-alternative
+  name: Github Alternative
+- id: devops
+  name: Devops
+- id: ai-powered
+  name: AI Powered
+- id: project-management
+  name: Project Management
+- id: ai
+  name: Ai
+- id: visual
+  name: Visual
+- id: collaboration
+  name: Collaboration
+- id: startup
+  name: Startup
+- id: web-based
+  name: Web Based
+- id: construction
+  name: Construction
+- id: workforce-management
+  name: Workforce Management
+- id: analytics
+  name: Analytics
+- id: brainstorming
+  name: Brainstorming
+- id: ideation
+  name: Ideation
+- id: github
+  name: Github
+- id: notifications
+  name: Notifications
+- id: ci-cd
+  name: Ci Cd
+- id: team-management
+  name: Team Management
+- id: phabricator
+  name: Phabricator
+- id: project-tracking
+  name: Project Tracking
+- id: team-collaboration
+  name: Team Collaboration
+- id: time-tracking
+  name: Time Tracking
+- id: cost-tracking
+  name: Cost Tracking
+- id: ms-project-alternative
+  name: Ms Project Alternative
+- id: project-scheduling
+  name: Project Scheduling
+- id: cloud
+  name: Cloud
+- id: resource-management
+  name: Resource Management
+- id: plugin-support
+  name: Plugin Support
+- id: multi-language
+  name: Multi Language
+- id: mercurial
+  name: Mercurial
+- id: subversion
+  name: Subversion
+- id: configurable
+  name: Configurable
+- id: ppm
+  name: Ppm
+- id: project-portfolio-management
+  name: Project Portfolio Management
+- id: work-management
+  name: Work Management
+- id: billing
+  name: Billing
+- id: crm
+  name: Crm
+- id: real-time-communication
+  name: Real Time Communication
+- id: darcs
+  name: Darcs
+- id: version-control
+  name: Version Control
+- id: no-javascript
+  name: No Javascript
+- id: task-tracking
+  name: Task Tracking
+- id: cost-management
+  name: Cost Management
+- id: php
+  name: Php
+- id: scrum
+  name: Scrum

@@ -1,20 +1,79 @@
-- url: "https://en.wikipedia.org/wiki/Comparison_of_project_management_software"
-  title: "Wikipedia — Comparison of project management software"
-- url: "https://www.softwaresuggest.com/project-management-software"
-  title: "SoftwareSuggest — Project Management software"
-- url: "https://www.saashub.com/best-project-management-software"
-  title: "SaaSHub — Project Management"
-- url: "https://zapier.com/blog/best-project-management-software-small-business/"
-  title: "Zapier — The best small business project management software in 2026"
-- url: "https://openalternative.co/categories/business-software/project-work-management/project-management-suites"
-  title: "OpenAlternative — Project Management Suites"
-- url: "https://www.opensourcealternative.to/category/project-management"
-  title: "OpenSourceAlternative.to — Project Management"
-- url: "https://www.futurepedia.io/ai-tools/project-management"
-  title: "Futurepedia — Project Management"
-- url: "https://awesome-selfhosted.net/tags/software-development---project-management.html"
-  title: "awesome-selfhosted — Software Development - Project Management"
-- url: "https://github.com/ripienaar/free-for-dev#issue-tracking-and-project-management"
-  title: "free-for-dev — section “Issue Tracking and Project Management”"
-- url: "https://github.com/topics/project-management"
-  title: "GitHub topic — `project-management` (8,962 repos)"
+- url: https://awesome-selfhosted.net/tags/software-development---project-management.html
+  normalized_url: https://awesome-selfhosted.net/tags/software-development---project-management.html
+  first_seen_at: 2026-11-22T00:19:10.395Z
+  last_attempted_at: 2026-11-22T00:19:10.395Z
+  last_success_at: 2026-11-22T00:19:10.395Z
+  status: success
+  items_created: 32
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+  first_seen_at: 2026-11-22T00:09:50.993Z
+  last_attempted_at: 2026-11-22T00:09:50.993Z
+  last_success_at: 2026-11-22T00:09:50.993Z
+  status: success
+  items_created: 14
+  pipeline: agent-pipeline
+- url: https://github.com/ripienaar/free-for-dev#issue-tracking-and-project-management
+  title: free-for-dev — section “Issue Tracking and Project Management”
+  normalized_url: https://github.com/ripienaar/free-for-dev
+- url: https://github.com/topics/project-management
+  title: GitHub topic — `project-management` (8,962 repos)
+  normalized_url: https://github.com/topics/project-management
+- url: https://openalternative.co/categories/business-software/project-work-management/project-management-suites
+  normalized_url: https://openalternative.co/categories/business-software/project-work-management/project-management-suites
+  first_seen_at: 2026-11-22T00:15:39.129Z
+  last_attempted_at: 2026-11-22T00:15:39.129Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/business-software/project-work-manage\
+    ment/project-management-suites"
+- url: https://www.futurepedia.io/ai-tools/project-management
+  normalized_url: https://www.futurepedia.io/ai-tools/project-management
+  first_seen_at: 2026-11-22T00:16:05.879Z
+  last_attempted_at: 2026-11-22T00:16:05.879Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.futurepedia.io/ai-tools/project-management"
+- url: https://www.opensourcealternative.to/category/project-management
+  normalized_url: https://www.opensourcealternative.to/category/project-management
+  first_seen_at: 2026-11-22T00:15:55.482Z
+  last_attempted_at: 2026-11-22T00:15:55.482Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.opensourcealternative.to/category/project-management"
+- url: https://www.saashub.com/best-project-management-software
+  normalized_url: https://www.saashub.com/best-project-management-software
+  first_seen_at: 2026-11-22T00:10:48.795Z
+  last_attempted_at: 2026-11-22T00:10:48.795Z
+  last_success_at: 2026-11-22T00:10:48.795Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/project-management-software
+  normalized_url: https://www.softwaresuggest.com/project-management-software
+  first_seen_at: 2026-11-22T00:11:47.483Z
+  last_attempted_at: 2026-11-22T00:11:47.483Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/project-management-software"
+- url: https://zapier.com/blog/best-project-management-software-small-business/
+  normalized_url: https://zapier.com/blog/best-project-management-software-small-business
+  first_seen_at: 2026-11-22T00:12:32.068Z
+  last_attempted_at: 2026-11-22T00:12:32.068Z
+  last_success_at: 2026-11-22T00:12:32.068Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline

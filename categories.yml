@@ -1,12 +1,66 @@
 - id: project-management-suites
-  name: "Project Management Suites"
+  name: Project Management Suites
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M6 5v11"/><path d="M12 5v6"/><path d="M18
+    5v14"/></svg>
 - id: agile-and-issue-tracking
-  name: "Agile & Issue Tracking"
+  name: Agile & Issue Tracking
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M6 5v11"/><path d="M12 5v6"/><path d="M18
+    5v14"/></svg>
 - id: open-source-and-self-hosted
-  name: "Open-Source & Self-Hosted"
+  name: Open-Source & Self-Hosted
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: work-os-and-visual-pm
-  name: "Work OS & Visual PM"
+  name: Work OS & Visual PM
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M6 5v11"/><path d="M12 5v6"/><path d="M18
+    5v14"/></svg>
 - id: gantt-and-resource-planning
-  name: "Gantt & Resource Planning"
+  name: Gantt & Resource Planning
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="2" y="4" width="10" height="2"
+    fill="currentColor" stroke="none"/><rect x="2" y="8" width="16" height="2"
+    fill="currentColor" stroke="none"/><rect x="2" y="12" width="8" height="2"
+    fill="currentColor" stroke="none"/><line x1="14" y1="2" x2="14"
+    y2="22"/></svg>
 - id: ai-project-management
-  name: "AI Project Management"
+  name: AI Project Management
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526
+    5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1
+    5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12
+    18Z"/></svg>
+- id: open-source-self-hosted
+  name: Open Source & Self Hosted
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
+- id: gantt-resource-planning
+  name: Gantt & Resource Planning
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><line x1="4" y1="4" x2="4" y2="20"/><line x1="6"
+    y1="8" x2="12" y2="8"/><line x1="6" y1="12" x2="18" y2="12"/><line x1="6"
+    y1="16" x2="22" y2="16"/></svg>
+- id: work-os-visual-pm
+  name: Work OS & Visual PM
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M6 5v11"/><path d="M12 5v6"/><path d="M18
+    5v14"/></svg>
+- id: agile-issue-tracking
+  name: Agile & Issue Tracking
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M6 5v11"/><path d="M12 5v6"/><path d="M18
+    5v14"/></svg>
